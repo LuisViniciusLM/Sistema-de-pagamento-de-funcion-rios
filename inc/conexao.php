@@ -2,7 +2,7 @@
 $servername = "*************************";
 $username = "****************";
 $password = "**************";
-$dbname = "pagfuncionario";
+$dbname = "*************************";
 
 $conexao = new mysqli($servername, $username, $password, $dbname);
 
