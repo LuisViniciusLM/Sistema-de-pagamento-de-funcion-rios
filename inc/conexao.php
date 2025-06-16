@@ -1,7 +1,7 @@
 <?php
-$servername = "pagfuncionario.mysql.dbaas.com.br";
-$username = "pagfuncionario";
-$password = "Vini@2005";
+$servername = "*************************";
+$username = "****************";
+$password = "**************";
 $dbname = "pagfuncionario";
 
 $conexao = new mysqli($servername, $username, $password, $dbname);
